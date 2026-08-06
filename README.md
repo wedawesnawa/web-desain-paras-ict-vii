@@ -48,7 +48,7 @@ The website introduces a conceptual waste recycling platform that highlights its
 Clone the repository
 
 ```bash
-https://github.com/wedawesnawa/WebDesain-ParasICTVII-1.git
+https://github.com/wedawesnawa/web-desain-paras-ict-vii.git
 ```
 
 Open
