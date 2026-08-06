@@ -14,7 +14,7 @@ The website introduces a conceptual waste recycling platform that highlights its
 
 ## 🎥 Preview
 
-> [Demo GIF]()
+![Demo GIF](img/Video%20Project.gif)
 
 ---
 
