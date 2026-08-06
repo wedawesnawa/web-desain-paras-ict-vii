@@ -48,7 +48,7 @@ The website introduces a conceptual waste recycling platform that highlights its
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/eracycle.git
+https://github.com/wedawesnawa/WebDesain-ParasICTVII-1.git
 ```
 
 Open
